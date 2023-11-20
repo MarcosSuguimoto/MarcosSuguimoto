@@ -1,7 +1,7 @@
 # Bem vinda(o), eu sou Marcos.
 
 
-## Gostaria de fazer uma breve apresentação sobre mim 👨‍🔬 &#61; > 👨‍💻
+## Gostaria de fazer uma breve apresentação sobre mim 👨‍🔬 &#61;> 👨‍💻
 
 Estudo Análise e Desenvolvimento de Sistemas no SENAC-SP, mas essa não é minha primeira formação. Estou em processo de migração de carreira buscando espaço como desenvolvedor ou analista de sistemas.</br>
 Em 2021 cursei o ensino técnico em Informática para Internet na ETEC Sebrae. Foi cursando o ensino técnico que abri meus olhos para o mundo fascinante da tecnologia e descobri habilidades que até então eu não fazia ideia que possuía.</br>
